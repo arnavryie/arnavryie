@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">🌸 Kon'nichiwa! I'm Arnav (aka rYie)</h1>
-<h3 align="center">💻 Beginner CS student | Python 🐍 | Anime enthusiast | Building my coding journey one step at a time!</h3>
+<h3 align="center">💻 Beginner CS student | Python 🐍 | Building my coding journey one step at a time!</h3>
 
 ---
 
