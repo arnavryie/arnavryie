@@ -72,5 +72,3 @@
 ## 🌸 Fun Fact
 
 **"Learning code is my training arc. Plot twist: I'll win."** 🗡️✨
-
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" />
