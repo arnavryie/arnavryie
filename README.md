@@ -4,12 +4,12 @@
 <h3 align="center">A curious Computer Science student from India — exploring Python, VS Code, and the world of coding.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arnavryie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=arnavryie&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
   </a>
 </p>
 
@@ -41,9 +41,9 @@
 ---
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnavryie&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&theme=onedark" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnavryie&show_icons=true&locale=en&theme=onedark" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=onedark" alt="Streak Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnavryie&theme=onedark" alt="Streak Stats" /></p>
