@@ -1,22 +1,22 @@
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="100%" />
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" />
 
 <h1 align="center">🌸 Kon'nichiwa! I'm Arnav (aka rYie)</h1>
-<h3 align="center">💻 Beginner CS student | Python 🐍 | Anime enthusiast | Training arc in progress 🚀</h3>
+<h3 align="center">💻 Beginner CS student | Python 🐍 | Anime enthusiast | Building my coding journey one step at a time!</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Learning+Python+🐍;VS+Code+User+💻;Anime+Vibes+🌙;Becoming+a+Coder+🗡️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF6EC7&center=true&vCenter=true&width=450&lines=Learning+Python+%F0%9F%90%8D;VS+Code+Fan+%F0%9F%92%BB;Anime+Vibes+%F0%9F%8C%9F;Slowly+Becoming+a+Coder+%F0%9F%91%BB" alt="Typing SVG" />
 </p>
 
 ---
 
-> *"Learning to code is my training arc — main character energy."* — rYie 🌙
+> *"In my world, I'm the main character learning to code."* — rYie 🌙
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnavryie&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arnavryie&label=Profile%20Views&color=FF6EC7&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -29,10 +29,10 @@
 
 ## 💫 About Me
 
-- 🐍 Learning **Python** step by step  
-- 💻 Exploring **VS Code** & extensions  
-- 🌱 Forking beginner repos to learn open source  
-- ✨ **Goal:** Code real projects & collab with awesome devs
+- 🐍 **Learning Python basics — printing “Hello World!” like an anime spell**  
+- 🧩 Playing with **VS Code**, extensions & pretty themes  
+- 🌱 Forking beginner repos to level up my Git skills  
+- ✨ **Goal:** Become an actual dev, build cool stuff, make my anime dreams real
 
 ---
 
@@ -71,6 +71,6 @@
 
 ## 🌸 Fun Fact
 
-**"This is only the beginning of my dev arc — plot twist: I’ll win!"** 🗡️✨
+**"Learning code is my training arc. Plot twist: I'll win."** 🗡️✨
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="100%" />
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" />
