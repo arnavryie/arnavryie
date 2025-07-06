@@ -1,31 +1,49 @@
-# 👋 Hi there, I’m Arnav!
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-I’m a first-year Computer Science student who just started learning Python 🐍.  
-Right now, I’m exploring coding basics, VS Code, and how to use GitHub properly.
+<h1 align="center">Hi 👋, I'm Arnav (aka rYie)</h1>
+<h3 align="center">A curious Computer Science student from India — exploring Python, VS Code, and the world of coding.</h3>
 
-## 🚀 What I’m up to:
-- Learning Python step by step
-- Forking interesting beginner-friendly projects to learn from
-- Practicing small scripts and algorithms
-- Trying out VS Code extensions and settings
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-## 🌱 My Goals:
-- Build small projects in Python
-- Understand how open source works
-- Contribute tiny fixes in beginner repos
-- Share what I learn along the way!
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  </a>
+</p>
 
-If you have any advice or beginner project ideas, feel free to reach out.  
-Let’s grow together! 🌟
+- 🐍 I’m currently learning **Python basics**  
+- 💻 Playing with **VS Code**, extensions, and GitHub  
+- 📌 I fork beginner repos to study and experiment  
+- 🚀 **Goals:** Become confident with programming and contribute for real one day!
+
+<h3 align="left">📫 Reach me at:</h3>
+
+- Gmail: **[officialarnav4@gmail.com](mailto:officialarnav4@gmail.com)**
+- Instagram: [@arnhvooo](https://instagram.com/arnhvooo)
+- Alt IG: [@ryiesuggsclits](https://instagram.com/ryiesuggsclits)
+- Discord: `arnavryie`
 
 ---
 
-📫 **Contact me:**  
-- Gmail: [officialarnav4@gmail.com](mailto:officialarnav4@gmail.com)  
-- Instagram: [@arnhvooo](https://instagram.com/arnhvooo)  
-- Discord: `arnavryie`  
-- Alt Instagram: [@ryiesuggsclits](https://instagram.com/ryiesuggsclits)
+<h3 align="left">🛠️ Languages & Tools:</h3>
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-**Also known as:** rYie
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&theme=onedark" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=onedark" alt="Streak Stats" /></p>
