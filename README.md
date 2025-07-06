@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/4M7IWwP.gif" width="100%" />
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" />
 
 <h1 align="center">🌸 Kon'nichiwa! I'm Arnav (aka rYie)</h1>
 <h3 align="center">💻 Beginner CS student | Python 🐍 | Anime enthusiast | Building my coding journey one step at a time!</h3>
@@ -73,6 +73,4 @@
 
 **"Learning code is my training arc. Plot twist: I'll win."** 🗡️✨
 
-<img src="https://i.imgur.com/4M7IWwP.gif" width="100%" />
-
----
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" />
