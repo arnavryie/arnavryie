@@ -1,4 +1,5 @@
-![MasterHead]([https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://github.com/arnavryie/arnavryie/blob/410bd5c0ea2a9d0a8d1a9a3ae75792885d6ca5c7/header.gif))
+![MasterHead](https://raw.githubusercontent.com/arnavryie/arnavryie/main/header.gif
+)
 
 <h1 align="center">🌸 Kon'nichiwa! I'm Arnav (aka rYie)</h1>
 <h3 align="center">💻 Beginner CS student | Python 🐍 | Building my coding journey one step at a time!</h3>
