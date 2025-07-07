@@ -41,8 +41,14 @@
 
 - 📧 **Mail:** [officialarnav4@gmail.com](mailto:officialarnav4@gmail.com)  
 - 📸 **Instagram:** [@arnhvooo](https://instagram.com/arnhvooo)  
-- 📸 **Alt IG:** [@ryiesuggsclits](https://instagram.com/ryiesuggsclits)  
-- 🎮 **Discord:** `arnavryie`
+- 🎮 **Discord:** `arnavryie`  
+<details>
+  <summary>🔒 Alt Instagram (click to reveal)</summary>
+
+  [@ryiesuggsclits](https://instagram.com/ryiesuggsclits)
+
+</details>
+
 
 ---
 
