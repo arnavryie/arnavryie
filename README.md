@@ -71,7 +71,8 @@
 </p>
 
 <p align="center">
-  <img src="https://katsuke.github.io/github-readme-streak-stats/?user=arnavryie&theme=tokyonight" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=arnavryie&theme=tokyonight" alt="Streak" />
+
 </p>
 
 ---
