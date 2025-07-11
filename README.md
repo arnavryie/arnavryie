@@ -77,12 +77,12 @@
   <img  
     src="https://github-readme-stats.vercel.app/api?username=arnavryie&show_icons=true&theme=tokyonight"  
     alt="Stats"  
-    width="49%"  
+    width="48%"  
   />
   <img  
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavryie&layout=compact&theme=tokyonight"  
     alt="Top Langs"  
-    width="49%"  
+    width="48%"  
   />
 </p>
 
