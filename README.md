@@ -1,125 +1,154 @@
 <div align="center">
 
-<img src="https://camo.githubusercontent.com/514f682a0b43a9422eee5d9e1d81ef2b7c866247575a96f1080913870d87f0e9/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633" width="100%" style="border-radius: 10px;" />
+<!-- ═══════════════════ HEADER WAVE ═══════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0016,40:5a0e5c,70:b52e8a,100:f778ba&height=240&section=header&text=ARNAV&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=rYie%20%E2%80%A2%20Computer%20Engineering%20%E2%80%A2%20Builder%20of%20Things&descAlignY=65&descSize=16&descColor=ffb3d9"/>
 
-<br/>
-<br/>
-
-<h1>🌸 Ａ Ｒ Ｎ Ａ Ｖ 🌸</h1>
-<h3><i>"In my world, I'm the main character learning to code."</i></h3>
-
+<!-- ═══════════════════ TYPING SVG ═══════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=22&pause=1000&color=F778BA&center=true&vCenter=true&width=500&lines=System+Status%3A+Leveling+Up...;Class%3A+CS+Student;Weapon+of+Choice%3A+Python+%F0%9F%90%8D;Current+Objective%3A+Build+Legacy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=18&pause=900&color=F778BA&center=true&vCenter=true&width=560&lines=System+Status%3A+Leveling+Up+Daily...;Class%3A+Computer+Engineering+%40+DYPIT+Pune;Weapon+of+Choice%3A+Python+%7C+C%2B%2B+%7C+JavaScript;Current+Arc%3A+DSA+%2B+Full+Stack+%2B+AI%2FML;Final+Boss%3A+Paid+Tech+Internship" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="80%" />
+<!-- ═══════════════════ QUICK BADGES ═══════════════════ -->
+<img src="https://komarev.com/ghpvc/?username=arnavryie&label=Profile+Views&color=F778BA&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Building_Every_Day-F778BA?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open_To-Internships-8a1a6e?style=flat-square"/>
 
-<br/>
+</div>
 
-<h2>🌸 𝚂 𝙴 𝙰 𝚂 𝙾 𝙽  &nbsp; 𝙸 &nbsp; — &nbsp; 𝙾 𝚁 𝙸 𝙶 𝙸 𝙽</h2>
+---
 
-<p>
-Welcome to my training arc. I am <b>Arnav (rYie)</b>.<br>
-I treat every line of code as a step forward in my story.<br>
-Currently focused on mastering the basics of Computer Science and crafting software with a soul.
-</p>
+<div align="center">
+<h2>🌸 𝙾 𝚁 𝙸 𝙶 𝙸 𝙽 &nbsp; 𝙰 𝚁 𝙲</h2>
+</div>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=arnavryie&label=POV&color=FF6EC7&style=for-the-badge" alt="Profile Views" />
-</p>
+```
+ IDENTITY  →  Arnav (rYie)  ·  Computer Engineering · Year 1  ·  DYPIT, Pune (SPPU)
+ MOTTO     →  "In my world, I'm the main character learning to code."
+ MINDSET   →  Every line of code is a step forward in the story.
+ TARGET    →  Paid tech internship  ·  Full Stack Developer  ·  Software with a soul.
+```
 
-<br/>
+---
 
-<h2>☀️ 𝚂 𝙴 𝙰 𝚂 𝙾 𝙽  &nbsp; 𝙸 𝙸 &nbsp; — &nbsp; 𝙶 𝚁 𝙾 𝚆 𝚃 𝙷</h2>
+<div align="center">
+<h2>☀️ 𝙶 𝚁 𝙾 𝚆 𝚃 𝙷 &nbsp; 𝙰 𝚁 𝙲</h2>
+</div>
 
-<p align="center">
-<i>"The sun rises, and so does the grind."</i>
-</p>
+<div align="center">
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" width="500px">
-      Currently seeking the balance between <b>logic</b> and <b>creativity</b>.<br>
-      My journey is defined by:<br><br>
-      🌱 <b>The Study:</b> Building a foundation in Python & CS concepts.<br>
-      🎨 <b>The Aesthetic:</b> Merging clean code with cinematic visuals.<br>
-      🔭 <b>The Vision:</b> Evolving into a Full Stack Developer.<br>
-      ⚔️ <b>The Goal:</b> To build software that feels alive.
-    </td>
-  </tr>
-</table>
+| Focus Area | Stack | Status |
+|:-----------|:------|:------:|
+| 🐍 **Python & DSA** | Shradha Khapra Playlist · Blind 75 | 🟢 Active |
+| ⚔️ **C++ & Data Structures** | OOP · Algorithms · LeetCode | 🟢 Active |
+| 🌐 **Full Stack Web Dev** | HTML · CSS · JS → Python Backend | 🟡 Incoming |
+| 🤖 **AI / ML + RAG** | LangChain · Vector DBs · Agents | 🔵 Queued |
+| 📦 **Open Source** | First PRs · Community building | 🔵 Queued |
 
-<br/>
+</div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="80%" />
+---
 
-<br/>
-
-<h2>🍂 𝚂 𝙴 𝙰 𝚂 𝙾 𝙽  &nbsp; 𝙸 𝙸 𝙸 &nbsp; — &nbsp; 𝙰 𝚁 𝚂 𝙴 𝙽 𝙰 𝙻</h2>
-
+<div align="center">
+<h2>🍂 𝙰 𝚁 𝚂 𝙴 𝙽 𝙰 𝙻</h2>
 <p><i>Weapons gathered for the battles ahead.</i></p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode&theme=dark&perline=6" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,git,github,vscode,obsidian&theme=dark&perline=9" />
 
-<br/>
+<br/><br/>
 
-<h3>⚡ 𝙿 𝙾 𝚆 𝙴 𝚁 &nbsp; 𝙻 𝙴 𝚅 𝙴 𝙻</h3>
+<img src="https://img.shields.io/badge/Learning-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Learning-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Learning-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Using-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Using-Cursor_IDE-000000?style=flat-square&logoColor=white"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnavryie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavryie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?login=arnavryie&theme=tokyonight&hide_border=true&background=0D1117" width="97%" />
-</p>
+</div>
 
-<br/>
+---
 
-<h2>❄️ 𝚂 𝙴 𝙰 𝚂 𝙾 𝙽  &nbsp; 𝙸 𝚅 &nbsp; — &nbsp; 𝙲 𝚁 𝙴 𝙰 𝚃 𝙸 𝙾 𝙽 𝚂</h2>
+<div align="center">
+<h2>⚡ 𝙿 𝙾 𝚆 𝙴 𝚁 &nbsp; 𝙻 𝙴 𝚅 𝙴 𝙻</h2>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arnavryie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F778BA&icon_color=F778BA&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavryie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F778BA&text_color=ffffff" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=arnavryie&theme=tokyonight&hide_border=true&background=0D1117&ring=F778BA&fire=F778BA&currStreakLabel=F778BA" width="97%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavryie&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F778BA&line=b52e8a&point=ffffff&area=true&area_color=F778BA" width="97%"/>
+</div>
+
+---
+
+<div align="center">
+<h2>❄️ 𝙲 𝚁 𝙴 𝙰 𝚃 𝙸 𝙾 𝙽 𝚂</h2>
 <p><i>Constructs manifested from thought to reality.</i></p>
+</div>
 
-| 🏛️ Project | 📜 Archives |
-| :--- | :--- |
-| **IntentFocus** | A tool for clarity and direction. |
-| **Kishmish** | Experimental build. |
-| **Mishkish** | Testing boundaries and logic. |
-| **Python Repo** | The training grounds for syntax and algorithms. |
+<div align="center">
 
-<br/>
+| Project | What It Is | Tech | Link |
+|:--------|:-----------|:-----|:----:|
+| 🔮 **SearchGet — Particle Text Engine** | 3D particle sphere that renders any text. Built from scratch. | JS · Canvas | [**▶ Live**](https://particle-text-engine.vercel.app/) |
+| 🎮 **Avengers: Terminal Assault** | 33-file ASCII/ANSI terminal movie in C++. Made to impress. | C++ · ANSI | Private |
+| ⚙️ **Thread Pool Scheduler** | Multi-threaded task scheduler. Academic but legit. | C++ · Threads | Private |
+| 🔷 **IntentFocus** | Clarity and direction tool. | TBD | Soon |
+| 🕹️ **GitHub Space Shooter** | Fully playable game built into my profile. | HTML · Canvas | [**▶ Play**](https://arnavryie.github.io/space-shooter) |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="80%" />
+</div>
 
-<br/>
+---
 
-<h2>🌙 𝚂 𝙴 𝙰 𝚂 𝙾 𝙽  &nbsp; 𝚅 &nbsp; — &nbsp; 𝚂 𝙸 𝙶 𝙽 𝙰 𝙻</h2>
+<div align="center">
+<h2>🕹️ 𝙿 𝙻 𝙰 𝚈 &nbsp; 𝙼 𝚈 &nbsp; 𝙶 𝙰 𝙼 𝙴</h2>
 
-<p><i>The day ends, but the connection remains open.</i></p>
+<a href="https://arnavryie.github.io/space-shooter">
+  <img src="https://img.shields.io/badge/▶%20LAUNCH%20GAME-Move%20cursor%20%3D%20fly%20%7C%20Auto--fire%20%7C%20Boss%20every%203%20waves-F778BA?style=for-the-badge&labelColor=0d0016"/>
+</a>
 
-<p align="center">
-  <a href="mailto:officialarnav4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/arnhvooo">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-arnavryie-000000?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" />
-  </a>
-</p>
+<br/><br/>
 
-<br/>
+> A fully playable space shooter built right into my GitHub profile.<br/>
+> Move your cursor → the ship follows it. Survive waves. Fight the boss.
 
-<p align="center">
-  <i>"To be continued..."</i>
-</p>
+</div>
+
+---
+
+<div align="center">
+<h2>🌙 𝚂 𝙸 𝙶 𝙽 𝙰 𝙻</h2>
+<p><i>The day ends, but the connection stays open.</i></p>
+
+<a href="mailto:officialarnav4@gmail.com">
+  <img src="https://img.shields.io/badge/Email-officialarnav4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/arnhvooo">
+  <img src="https://img.shields.io/badge/Instagram-arnhvooo-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-arnavryie-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f778ba,50:b52e8a,80:5a0e5c,100:0d0016&height=140&section=footer&animation=twinkling"/>
+
+*— to be continued —*
 
 </div>
