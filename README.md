@@ -22,31 +22,23 @@
 ---
 
 <div align="center">
-<h2>🌸 𝙾 𝚁 𝙸 𝙶 𝙸 𝙽 &nbsp; 𝙰 𝚁 𝙲</h2>
+<h2>👾 𝚆 𝙷 𝙾 &nbsp; 𝙰 𝙼 &nbsp; 𝙸</h2>
 </div>
 
 ```
- IDENTITY  →  Arnav (rYie)  ·  Computer Engineering · Year 1  ·  DYPIT, Pune (SPPU)
- MOTTO     →  "In my world, I'm the main character learning to code."
- MINDSET   →  Every line of code is a step forward in the story.
- TARGET    →  Paid tech internship  ·  Full Stack Developer  ·  Software with a soul.
+  Arnav · rYie · Computer Engineering, Year 1 · DYPIT Pune
+  "In my world, I'm the main character learning to code."
 ```
 
----
-
-<div align="center">
-<h2>☀️ 𝙶 𝚁 𝙾 𝚆 𝚃 𝙷 &nbsp; 𝙰 𝚁 𝙲</h2>
-</div>
-
 <div align="center">
 
-| Focus Area | Stack | Status |
-|:-----------|:------|:------:|
-| 🐍 **Python & DSA** | Shradha Khapra Playlist · Blind 75 | 🟢 Active |
-| ⚔️ **C++ & Data Structures** | OOP · Algorithms · LeetCode | 🟢 Active |
-| 🌐 **Full Stack Web Dev** | HTML · CSS · JS → Python Backend | 🟡 Incoming |
-| 🤖 **AI / ML + RAG** | LangChain · Vector DBs · Agents | 🔵 Queued |
-| 📦 **Open Source** | First PRs · Community building | 🔵 Queued |
+**Languages I use** → Python · C++ · JavaScript · HTML · CSS
+
+**Where I focus** → DSA · Full Stack Web Dev · AI/ML · Systems Programming
+
+**What I'm building** → Particle engines · Terminal projects · AI-powered tools · Games
+
+**Target** → Paid tech internship · Full Stack Developer · Software with a soul.
 
 </div>
 
