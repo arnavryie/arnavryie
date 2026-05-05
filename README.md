@@ -146,7 +146,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/arnavryie/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 
