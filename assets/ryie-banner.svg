@@ -1,0 +1,83 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#19e6ff"/>
+      <stop offset="0.55" stop-color="#ff2bd6"/>
+      <stop offset="1" stop-color="#8b5cff"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#19e6ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ff2bd6"/>
+      <stop offset="1" stop-color="#8b5cff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glowC" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowSoft" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- bg -->
+  <rect width="1200" height="320" fill="#06070b"/>
+
+  <!-- ambient blobs -->
+  <circle cx="180" cy="60" r="170" fill="#19e6ff" opacity="0.05">
+    <animate attributeName="cx" values="180;260;180" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1030" cy="270" r="190" fill="#ff2bd6" opacity="0.05">
+    <animate attributeName="cx" values="1030;950;1030" dur="17s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="640" cy="40" r="140" fill="#8b5cff" opacity="0.05">
+    <animate attributeName="cy" values="40;90;40" dur="20s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- drifting particle dots -->
+  <g>
+    <rect x="90"  y="70"  width="5" height="5" fill="#19e6ff" opacity="0.8"><animate attributeName="y" values="70;58;70" dur="5.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0.25;0.8" dur="5.2s" repeatCount="indefinite"/></rect>
+    <rect x="150" y="210" width="4" height="4" fill="#ff2bd6" opacity="0.7"><animate attributeName="y" values="210;222;210" dur="6.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0.2;0.7" dur="6.4s" repeatCount="indefinite"/></rect>
+    <rect x="240" y="120" width="3" height="3" fill="#8b5cff" opacity="0.8"><animate attributeName="y" values="120;108;120" dur="4.6s" repeatCount="indefinite"/></rect>
+    <rect x="320" y="250" width="5" height="5" fill="#19e6ff" opacity="0.55"><animate attributeName="y" values="250;238;250" dur="7.2s" repeatCount="indefinite"/></rect>
+    <rect x="395" y="80"  width="4" height="4" fill="#ff2bd6" opacity="0.7"><animate attributeName="y" values="80;94;80" dur="5.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0.25;0.7" dur="5.8s" repeatCount="indefinite"/></rect>
+    <rect x="500" y="240" width="3" height="3" fill="#8b5cff" opacity="0.7"><animate attributeName="y" values="240;252;240" dur="6.1s" repeatCount="indefinite"/></rect>
+    <rect x="610" y="60"  width="5" height="5" fill="#19e6ff" opacity="0.6"><animate attributeName="y" values="60;48;60" dur="4.9s" repeatCount="indefinite"/></rect>
+    <rect x="700" y="230" width="4" height="4" fill="#ff2bd6" opacity="0.75"><animate attributeName="y" values="230;244;230" dur="6.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.75;0.2;0.75" dur="6.8s" repeatCount="indefinite"/></rect>
+    <rect x="790" y="100" width="3" height="3" fill="#8b5cff" opacity="0.8"><animate attributeName="y" values="100;88;100" dur="5.4s" repeatCount="indefinite"/></rect>
+    <rect x="880" y="260" width="5" height="5" fill="#19e6ff" opacity="0.5"><animate attributeName="y" values="260;248;260" dur="7.6s" repeatCount="indefinite"/></rect>
+    <rect x="960" y="90"  width="4" height="4" fill="#ff2bd6" opacity="0.7"><animate attributeName="y" values="90;104;90" dur="5.1s" repeatCount="indefinite"/></rect>
+    <rect x="1050" y="200" width="3" height="3" fill="#8b5cff" opacity="0.75"><animate attributeName="y" values="200;188;200" dur="6.3s" repeatCount="indefinite"/></rect>
+    <rect x="1120" y="120" width="5" height="5" fill="#19e6ff" opacity="0.6"><animate attributeName="y" values="120;132;120" dur="5.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0.2;0.6" dur="5.9s" repeatCount="indefinite"/></rect>
+    <rect x="60"  y="160" width="3" height="3" fill="#ff2bd6" opacity="0.6"><animate attributeName="y" values="160;172;160" dur="6.7s" repeatCount="indefinite"/></rect>
+    <rect x="540" y="160" width="3" height="3" fill="#19e6ff" opacity="0.45"><animate attributeName="y" values="160;150;160" dur="8.1s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <!-- kicker -->
+  <text x="600" y="92" text-anchor="middle"
+        font-family="Verdana, Geneva, sans-serif" font-size="15" letter-spacing="10"
+        fill="#8a8aa3">FULL-STACK&#160;&#160;·&#160;&#160;AI&#160;&#160;·&#160;&#160;SHIP&#160;IT</text>
+
+  <!-- RYIE — white glow like the hero -->
+  <text x="600" y="206" text-anchor="middle"
+        font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="128"
+        letter-spacing="14" fill="#f4f3fb" filter="url(#glowC)">RYIE
+    <animate attributeName="opacity" values="1;0.92;1" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- gradient underline sweep -->
+  <rect x="430" y="232" width="340" height="3" rx="1.5" fill="url(#line)">
+    <animate attributeName="x" values="430;460;430" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- sub -->
+  <text x="600" y="276" text-anchor="middle"
+        font-family="Verdana, Geneva, sans-serif" font-size="14" letter-spacing="4"
+        fill="#cfcde6">idea&#160;&#160;→&#160;&#160;design&#160;&#160;→&#160;&#160;backend&#160;&#160;→&#160;&#160;deploy&#160;&#160;—&#160;&#160;solo</text>
+
+  <!-- corner accents -->
+  <text x="40" y="44" font-family="Verdana, Geneva, sans-serif" font-size="12" letter-spacing="3"
+        fill="#19e6ff" filter="url(#glowSoft)">EST. 2025</text>
+  <text x="1160" y="44" text-anchor="end" font-family="Verdana, Geneva, sans-serif" font-size="12"
+        letter-spacing="3" fill="#ff2bd6" filter="url(#glowSoft)">妥協なし</text>
+</svg>
