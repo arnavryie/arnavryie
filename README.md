@@ -112,6 +112,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavryie&hide_border=true&bg_color=06070b&color=19e6ff&line=ff2bd6&point=f4f3fb&area=true&area_color=8b5cff" width="97%"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnavryie/arnavryie/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnavryie/arnavryie/output/snake-light.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/arnavryie/arnavryie/output/snake-dark.svg" width="97%" />
+  </picture>
+</div>
+
 <img width="100%" src="https://raw.githubusercontent.com/arnavryie/arnavryie/main/assets/ryie-divider.svg"/>
 
 <div align="center">
@@ -159,7 +169,3 @@
 *— the grind continues —*
 
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arnavryie/snk/output/github-contribution-grid-snake.svg"/>
-</p>
