@@ -100,16 +100,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnavryie&show_icons=true&hide_border=true&bg_color=06070b&title_color=19e6ff&icon_color=ff2bd6&text_color=f4f3fb&ring_color=8b5cff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavryie&layout=compact&hide_border=true&bg_color=06070b&title_color=19e6ff&text_color=f4f3fb" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=arnavryie&hide_border=true&background=06070b&ring=ff2bd6&fire=19e6ff&currStreakLabel=19e6ff&currStreakNum=f4f3fb&sideNums=f4f3fb&sideLabels=8a8aa3&dates=8a8aa3&stroke=8b5cff" width="97%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavryie&hide_border=true&bg_color=06070b&color=19e6ff&line=ff2bd6&point=f4f3fb&area=true&area_color=8b5cff" width="97%"/>
+  <img src="https://raw.githubusercontent.com/arnavryie/arnavryie/main/assets/streak-stats.svg" width="97%" alt="Arnav's Streak Stats" />
 </div>
 
 <br/>
